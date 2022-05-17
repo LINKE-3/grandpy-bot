@@ -2,7 +2,7 @@
 
 this program is a website, on the website page there is a form where you can ask for an adress, then you will have a story and a map of this adress.
 
-### how yo use it ?
+### how to use it ?
 before to open this program with your idle install the packages with this comand :
 ### instalation modules
 `pip install -r requirements.txt`
